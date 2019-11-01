@@ -1,5 +1,5 @@
 # Bound_Ball
-マウスを使ってボールを弾くゲーム
+Unityを使った、マウスを使ってボールを弾くゲームを作成しました
 ![start画面](https://github.com/takara0524/Bound_Ball/blob/master/スクリーンショット%202019-11-01%2018.43.33.png?raw=true)
 ![clear画面](https://github.com/takara0524/Bound_Ball/blob/master/スクリーンショット%202019-11-01%2018.43.52.png?raw=true)
 ## 遊び方
