@@ -8,5 +8,5 @@
 ### 操作フロー
 マウス左ボタン長押し->マウスを弾きたい方向に移動->左ボタンを離す->ボールがその方向に弾かれる
 
-#SourceTreeでの作業画面
+# SourceTreeでの作業画面
 ![作業画面](https://github.com/takara0524/Bound_Ball/blob/master/スクリーンショット%202019-11-01%2018.45.56.png?raw=true)
